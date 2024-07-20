@@ -1,3 +1,6 @@
+Note : Make Folder add all files in one folder then this program will run other wise it will give error
+Instructions to Run the Program
+<img width="565" alt="Instructions" src="https://github.com/user-attachments/assets/c7817d94-653e-4e35-8341-b962d757d24e">
 This Cpp project targets three persons(Administrator,Student and Teacher)
 <img width="566" alt="Persons" src="https://github.com/user-attachments/assets/08115571-3963-4caa-9c3b-b21f834012c4">
 Admin has the following options and assign all details and password to teacher and student
