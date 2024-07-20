@@ -12,3 +12,4 @@ Teacher Student and Admin menu will open after login only to ensure the security
 This Type of Login will show in all cases two factors will require ID and Password
 <img width="199" alt="Login" src="https://github.com/user-attachments/assets/6ab8daed-1c2e-4a3c-a254-66114f627f33">
 This is a general project and all options used in this project are general (Used in educational Institutes)
+Core Concept used in this project is File Handling
